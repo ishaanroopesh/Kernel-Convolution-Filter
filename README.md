@@ -4,7 +4,7 @@ Image Filtering using the mathematical concept of Convolution Matrices
 
 -> Mathematical based custom convolution matrices of 3x3 form are used
 
--> These matrices hold values for the surrounding pixels, stating an integer value to each
+-> These matrices hold values for the surrounding pixels, stating an floating-point value to each
 
 -> The Kernel class then updates the rgb values of each pixel, based off the values held by the convolution matrix
 
